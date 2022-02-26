@@ -1,0 +1,6 @@
+class Main {
+  public static void main(String[] args) {
+      System.out.println("Testing");
+    org.junit.runner.JUnitCore.main("ComplexTest");
+  }
+}
